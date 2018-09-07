@@ -1,0 +1,51 @@
+h1 {
+  font-family: garamond;
+  color: white;
+  text-align: center;
+
+}
+
+p {
+  font-size: 24px;
+  font-family: trebuchet;
+  color: white;
+}
+
+.thick-brown-border {
+  border-color: white;
+  border-width: 10px;
+  border-style: solid;
+}
+
+h3 {
+  font-family: trebuchet;
+}
+
+.smaller-image {
+  width: 100px;
+}
+
+body {
+  background-color: maroon;
+  color: white;
+}
+
+ul {
+  color: white;
+}
+.column {
+  float: left;
+  width: 25%;
+  max-width:25%;
+  height:auto;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div {
+}
